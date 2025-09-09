@@ -9,7 +9,7 @@
     "lint": "next lint",
     "prepare": "husky",
     "prisma:generate": "prisma generate",
-    "prisma:generate:prod": "prisma generate --no-engine",
+    "postinstall": "prisma generate --no-engine",
     "prisma:migrate": "prisma migrate dev",
     "prisma:studio": "prisma studio"
   },

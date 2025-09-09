@@ -1,7 +1,10 @@
 import { defineConfig } from "prisma/config";
 import path from "node:path";
 
-process.loadEnvFile();
+// Solo carga el archivo .env en desarrollo
+if (process.env.NODE_ENV !== "production") {
+  process.loadEnvFile();
+}
 
 export default defineConfig({
   schema: path.join("prisma", "schema.prisma"),

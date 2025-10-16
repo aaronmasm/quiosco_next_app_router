@@ -129,11 +129,6 @@ Top-level directories/files of interest:
 
 - Next.js supports Node.js runtimes on many platforms (Vercel, etc.).
 
-## Learn More
-
-- Next.js Documentation: https://nextjs.org/docs
-- Learn Next.js (tutorial): https://nextjs.org/learn
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.

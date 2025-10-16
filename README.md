@@ -128,7 +128,6 @@ Top-level directories/files of interest:
 ## Deployment
 
 - Next.js supports Node.js runtimes on many platforms (Vercel, etc.).
-- TODO: Specify the intended deployment platform and any required build/runtime environment variables.
 
 ## Learn More
 

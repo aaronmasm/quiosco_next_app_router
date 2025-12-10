@@ -20,7 +20,7 @@
     "@heroicons/react": "^2.2.0",
     "@prisma/client": "^6.14.0",
     "@prisma/extension-accelerate": "^2.0.2",
-    "next": "^15.5.2",
+    "next": "15.5.7",
     "next-cloudinary": "^6.16.0",
     "react": "19.1.0",
     "react-dom": "19.1.0",
